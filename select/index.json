@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "アイカツハッピーエンド",
+  "base_artist": "=LOVE",
+  "createdAt": "2026-02-27T19:07:22.043624Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイカツハッピーエンド",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_アイカツハッピーエンド_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイカツハッピーエンド",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_アイカツハッピーエンド_=LOVE.txt"
+    }
+  ]
+}
